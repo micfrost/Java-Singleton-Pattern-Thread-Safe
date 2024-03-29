@@ -9,6 +9,14 @@ This Java-based project showcases the implementation of the Singleton design pat
 - **Coffee Machine Operations**: Includes brewing, refilling beans, and water management.
 - **Multithreading Simulation**: Demonstrates thread-safe operations in a simulated real-life scenario.
 
+## Java Features
+
+- **Singleton Pattern**: Implemented in the `CoffeeMachine` class to ensure a single instance.
+- **Thread Safety**: Double-checked locking in the `getInstance` method.
+- **Synchronized Methods**: Ensures thread-safe operations in a multithreaded context.
+- **Multithreading**: Demonstrated in the `CoffeeApp` class using Java Threads.
+
+
 ## Structure
 ### `CoffeeMachine`
 - Singleton class representing the coffee machine.
