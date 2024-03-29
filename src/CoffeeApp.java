@@ -1,7 +1,3 @@
-package D75_Singleton.Task_4_singleton_CooffeeMachine;
-
-import static java.lang.Thread.currentThread;
-
 class CoffeeMachine {
     // Step 1 Class Instance
     private static CoffeeMachine coffeeMachineInstance;
